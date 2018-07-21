@@ -1,0 +1,53 @@
+1.
+
+https://www.cs.bgu.ac.il/~elhadad/nlp18/nlp02.html
+
+2.NLP: Explaining Neural Language Modeling 
+
+https://mchromiak.github.io/articles/2017/Nov/30/Explaining-Neural-Language-Modeling/#.W0hY-zl9jIU
+
+3.pdf
+
+http://www.phontron.com/slides/nlp-programming-en-01-unigramlm.pdf
+
+4.slideshaRE
+
+https://www.slideshare.net/MaryamKhordad/language-models
+
+5.How to Develop Word-Based Neural Language Models in Python with Keras
+
+https://machinelearningmastery.com/develop-word-based-neural-language-models-python-keras/
+
+6.Language models in Python
+
+http://www.katrinerk.com/courses/python-worksheets/language-models-in-python
+
+7.LM
+
+https://gist.github.com/fredcallaway/707d2d83b240dc0da50d
+
+8.
+
+https://github.com/ollie283/language-models
+
+9.Building Language Models
+
+https://nlpforhackers.io/language-models/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
